@@ -45,11 +45,14 @@ Include screenshots of your portfolio to provide users with a quick preview.
 
 **Dark Mode:**
 
-![Dark Mode](https://github.com/sandipmalii/My-Portfolio/assets/128310990/5bf399cf-cf15-4ffb-808a-8331edd01bdc)
+![Dark Mode](https://github.com/sandipmalii/My-Portfolio/assets/128310990/9af2b35b-f509-4bdc-807d-3ee420d18462)
+
 
 **Day Mode:**
 
-![Day Mode](https://github.com/sandipmalii/My-Portfolio/assets/128310990/d7c5c351-0d88-48aa-9d25-67bee74c59aa)
+![Day Mode](https://github.com/sandipmalii/My-Portfolio/assets/128310990/510c4e54-a712-42eb-92b1-b9d6964224fc)
+
+
 
 ## Contact Information
 
