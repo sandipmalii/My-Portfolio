@@ -1,44 +1,34 @@
-# My Portfolio
+```markdown
+# Professional Portfolio
 
-Welcome to my portfolio repository! This project is a showcase of my skills and projects, built with HTML, CSS, and JavaScript.
+Welcome to my professional portfolio repository! This collection showcases my proficiency and various projects, crafted with expertise in HTML, CSS, and JavaScript.
 
-## Table of Contents
+## Live Demo
 
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Contact](#contact)
+Explore the live demonstration of my portfolio: [sandipmali.com.np](https://sandipmali.com.np/)
 
-## Demo
+## Key Features
 
-Include a link to the live demo of your portfolio.
-
-## Features
-
-- Responsive design for various devices.
-- Projects section highlighting your best works.
-- About me section introducing yourself.
+- Responsive design optimized for a wide range of devices.
+- Projects section highlighting my notable works.
+- An "About Me" section providing an introduction to my professional background.
 - Contact information for potential employers or collaborators.
 
-## Technologies Used
+## Technologies Utilized
 
 - HTML
 - CSS
 - JavaScript
 
-## Installation
+## Installation Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
-2. Open the project folder: `cd your-portfolio`
-3. Open `index.html` in your browser.
+1. Clone the repository: `git clone https://github.com/sandipmalii/My-Portfolio.git`
+2. Navigate to the project folder: `cd My-Portfolio`
+3. Open `index.html` in your preferred web browser.
 
-## Usage
+## Customization and Usage
 
-Customize the portfolio to make it your own by editing the HTML, CSS, and JavaScript files. Add your projects, update your bio, and include any other information you want to share.
+Tailor the portfolio to your preferences by modifying the HTML, CSS, and JavaScript files. Incorporate your projects, update your biography, and include any additional information you wish to share.
 
 ```html
 <!-- Example: Add your project -->
@@ -47,3 +37,23 @@ Customize the portfolio to make it your own by editing the HTML, CSS, and JavaSc
     <p>Description of the project goes here...</p>
     <a href="link-to-live-demo-or-repository">View Project</a>
 </div>
+```
+
+## Screenshots
+
+Include screenshots of your portfolio to provide users with a quick preview.
+
+**Dark Mode:**
+
+![Dark Mode](https://github.com/sandipmalii/My-Portfolio/assets/128310990/5bf399cf-cf15-4ffb-808a-8331edd01bdc)
+
+**Day Mode:**
+
+![Day Mode](https://github.com/sandipmalii/My-Portfolio/assets/128310990/d7c5c351-0d88-48aa-9d25-67bee74c59aa)
+
+## Contact Information
+
+If you have any inquiries or would like to connect, feel free to reach out to me at [malisandip021@example.com](mailto:malisandip021@example.com).
+
+Happy coding!
+```
