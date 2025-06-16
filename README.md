@@ -99,8 +99,8 @@ If you find this repository helpful:
 
 ---
 
-> Thank you for reviewing my portfolio.
-> **I look forward to potential opportunities and collaborations.**
+> *Thank you for reviewing my portfolio.
+> I welcome any opportunity to apply my skills to real-world projects and contribute to high-impact teams.*
 
 ---
 
